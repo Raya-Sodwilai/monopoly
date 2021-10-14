@@ -1,31 +1,33 @@
-# (Application Name)
+# _Monopoly Game_
 
-#### (Brief Description of Application)
+#### _A classic Monopoly game implemented with JavaScript, Jquery, HTML and SCSS_
 
-#### By (Your Name Here)
+#### By _**Raya Sodwilai**_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* JavaScript
+* Jquery
+* HTML
+* SCSS
 
 ## Description
 
+
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Internet Browser
+* A GitHub Account
+* Code Editor such as Visual Studio Code
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* N/A
 
 ## License
 
+_MIT &copy; 2021 Raya Sodwilai_
+
 ## Contact Information
+
+_sodwilai@pdx.edu_
